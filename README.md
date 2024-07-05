@@ -14,3 +14,6 @@ The Age Calculator is a simple web application that calculates a person's age ba
   * HTML
   * CSS
   * JavaScript
+
+![Age Calculator]([https://github.com/favicon.ico](https://github.com/EbrahimMahrous/Age-Calculator/blob/main/Age%20Calculator.png))
+
